@@ -21,3 +21,14 @@ Currying consiste em utilizar uma função que retorna outra função, dessa for
 
 ## Vídeo 7 - Recursion
 Uma função que chama a si mesma. No ES5 existe um limite para o número de vezes que uma função pode chamar outra função e assim sucessivamente (Maximum call stack size exceeded), isso é comum em linguagens não-funcionais. Porém, esse limite foi removido no ES6. Linguagens funcionais não costumam ter limite, uma vez que o uso de recursão é algo bem comum nelas.
+
+## Vídeo 8 - Promises
+
+## Vídeo 9 - Functors
+
+## Vídeo 10 - Funtors parte 2
+
+## Vídeo 11 - Streams
+É um fluxo de valores.
+
+## Vídeo 12 - Monad
